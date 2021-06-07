@@ -1,0 +1,16 @@
+@@charset "UTF-8";
+/*CSS Documant*/
+
+#navegacionPrincipal, #barraLateral, #pieNavega{
+    display: none;
+}
+
+#banner, #contenidoPrincipal, #pie, #principal{
+    width:auto;
+    margin:0;
+    padding:0;
+}
+
+#piePrincipal{
+    margin:0;
+}
